@@ -1,9 +1,6 @@
 <component name="libraryTable">
   <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
-    <CLASSES>
-      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_for_web-0.4.0+1" />
-      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity-3.0.6" />
-    </CLASSES>
+    <CLASSES />
     <JAVADOC />
     <SOURCES />
   </library>
